@@ -67,9 +67,11 @@ h2 {
 
 .desc-text{
     font-size: 9px;
+}
+.desc-subtext {
+    font-size: 9px;
     color: #282828;
-    padding-left 16px;
-
+    padding-left: 16px;
 }
 .title-box{
     text-align: right;
